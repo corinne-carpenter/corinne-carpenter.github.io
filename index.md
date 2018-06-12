@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Corinne Carpenter, PhD
 
-You can use the [editor on GitHub](https://github.com/corinne-carpenter/corinne-carpenter.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Researcher and Consultant in materials science and engineering, with specialization in computation, simulation, and theoretical analysis. Experienced with mechanical, structural, morphological, and thermodynamic analysis of polymeric, metallic, and organic materials systems.
 
 ### Markdown
 
