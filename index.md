@@ -1,8 +1,6 @@
-## Corinne Carpenter, PhD
+## Background
 
 Researcher and Consultant in materials science and engineering, with specialization in computation and simulation. Experienced with mechanical, morphological, and thermodynamic analysis of polymeric, metallic, and organic materials systems.
-
-### Background
 
 [LinkedIn Profile](https://www.linkedin.com/in/corinne-carpenter/)
 
@@ -14,5 +12,5 @@ Download my CV [here]({{corinne-carpenter.github.io}}/CV_CCarpenter.pdf).
 
 ### Previous Research
 
-![Symmetric melting of a disclination.](https://github.com/corinne-carpenter/corinne-carpenter.github.io/blob/master/S_noSolvent.gif)
+![Symmetric melting of a disclination.]({{corinne-carpenter.github.io}}/S_noSolvent.gif)
 
