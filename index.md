@@ -13,8 +13,15 @@ Download my CV [here]({{corinne-carpenter.github.io}}/CV_CCarpenter.pdf).
 ### Previous Research
 
 ![Nanomesh Orientation.]({{corinne-carpenter.github.io}}/image-R-6-4-X-5-Per-0.png)
+
 Nanomesh Orientation
 
+
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/corinne-carpenter/corinne-carpenter.github.io/blob/master/image-R-6-4-X-5-Per-0.png>
+</p>
+                                     
 ![Symmetric melting of a disclination.]({{corinne-carpenter.github.io}}/S_noSolvent.gif)
 Melting of defects in confined lamellae.
 
