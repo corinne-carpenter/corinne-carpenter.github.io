@@ -20,7 +20,3 @@ Download my CV [here]({{corinne-carpenter.github.io}}/CV_CCarpenter.pdf).
 Calculating energy barriers of defects in confined, solvated lamellae using the string method
 
 ![Symmetric melting of a disclination.]({{corinne-carpenter.github.io}}/S_noSolvent.gif)
-
-Suppression of thermal fluctuation placement errors in linear arrays of block copolymer cylinders
-
-![Center positions of three cylinders fluctuating in a linear array.]({{corinne-carpenter.github.io}}/3CylMoving.gif)
