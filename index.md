@@ -1,3 +1,7 @@
+## Current Project
+
+Discovery and design of additives for novel polymer morphology and performance. Simulation of polymer crystallization kinetics in the presence of nucleating agents using LAMMPS. 
+
 ## Background
 
 Researcher and Consultant in materials science and engineering, with specialization in computation and simulation. Experienced with mechanical, morphological, and thermodynamic analysis of polymeric, metallic, and organic materials systems.
